@@ -1,0 +1,27 @@
+{
+  "name": "cordova-plugin-voice-intent",
+  "version": "0.0.2",
+  "description": "Connects the iOS and Android voice assistant intents to cordova.",
+  "cordova": {
+    "id": "cordova-plugin-voice-intent",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheMattRay/cordova-plugin-voice-intent.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "Matt Ray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheMattRay/cordova-plugin-voice-intent/issues"
+  },
+  "homepage": "https://github.com/TheMattRay/cordova-plugin-voice-intent#readme"
+}
