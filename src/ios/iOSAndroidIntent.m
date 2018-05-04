@@ -18,10 +18,11 @@ AppDelegate *appDelegate; //AppDelegate object to get message value
 {
     appDelegate = DELEGATE;
     NSString* result = @"";
-    if(appDelegate.message!=NULL){
+  result = "Nenad";
+    /*if(appDelegate.message!=NULL){
         result = appDelegate.message;
         appDelegate.message = @"";
-    }
+    }*/
 
     CDVPluginResult* pluginResult = [CDVPluginResult resultWithStatus:CDVCommandStatus_OK messageAsString:result];
     [self.commandDelegate sendPluginResult:pluginResult callbackId:command.callbackId];
