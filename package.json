@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheMattRay/cordova-plugin-voice-intent.git"
+    "url": "git+https://github.com/webzvornikgit/cordova-plugin-voice-intent-master.git"
   },
   "keywords": [
     "ecosystem:cordova",
@@ -21,7 +21,7 @@
   "author": "Matt Ray",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/TheMattRay/cordova-plugin-voice-intent/issues"
+    "url": "https://github.com/webzvornikgit/cordova-plugin-voice-intent-master/issues"
   },
-  "homepage": "https://github.com/TheMattRay/cordova-plugin-voice-intent#readme"
+  "homepage": "https://github.com/webzvornikgit/cordova-plugin-voice-intent-master#readme"
 }
